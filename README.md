@@ -15,4 +15,4 @@ site link : https://coffee-shop-html-css.netlify.app/
 
 
 
-                                                                              Thank You!
+                                                                Thank You!
